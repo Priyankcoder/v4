@@ -1,27 +1,31 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'priyankrastogi14@gmail.com',
 
   socialMedia: [
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/priyankcoder',
+    },
+    {
+      name: 'Codeforces',
+      url: 'https://codeforces.com/profile/priyank010',
+    },
+    {
+      name: 'Codechef',
+      url: 'https://www.codechef.com/users/priyank010',
+    },
+    {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/priyankcoder',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/curious_priyank',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/',
+    // },
   ],
 
   navLinks: [
